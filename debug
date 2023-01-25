@@ -1,0 +1,2 @@
+Başlıyoruz...0.0---> olac
+{"token":"7304ad058d338fbbe4baba738e13592d7d8f25eb","user_id":87,"first_name":"","last_name":"","phone":"","email":"mymail008@domain.com"}http GET http://127.0.0.1:8000/api-token-auth/ Authorization: Token fd279255cfe14689810ae0ff73a9c717023b35c5

@@ -1,0 +1,7 @@
+Requirement already satisfied: djangorestframework-simplejwt in /home/cappittall/miniconda3/lib/python3.9/site-packages (5.1.0)
+Requirement already satisfied: pyjwt<3,>=1.7.1 in /home/cappittall/miniconda3/lib/python3.9/site-packages (from djangorestframework-simplejwt) (1.7.1)
+Requirement already satisfied: djangorestframework in /home/cappittall/.local/lib/python3.9/site-packages (from djangorestframework-simplejwt) (3.13.1)
+Requirement already satisfied: django in /home/cappittall/.local/lib/python3.9/site-packages (from djangorestframework-simplejwt) (4.0.3)
+Requirement already satisfied: sqlparse>=0.2.2 in /home/cappittall/.local/lib/python3.9/site-packages (from django->djangorestframework-simplejwt) (0.4.2)
+Requirement already satisfied: asgiref<4,>=3.4.1 in /home/cappittall/.local/lib/python3.9/site-packages (from django->djangorestframework-simplejwt) (3.5.0)
+Requirement already satisfied: pytz in /home/cappittall/miniconda3/lib/python3.9/site-packages (from djangorestframework->djangorestframework-simplejwt) (2021.3)
